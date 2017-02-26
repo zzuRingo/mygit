@@ -1,0 +1,7 @@
+#ip 127.0.0.1 //ip地址
+#port 2000 //端口号
+#threadnum 5 //线程数
+#capability 10 //最大监听数
+#workdir /mnt/hgfs/test/v3.0/server/home //工作目录
+
+
